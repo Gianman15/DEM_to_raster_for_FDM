@@ -7,6 +7,7 @@ Utility repository to convert DEMs to raster format for standard 3d filament pri
 
 ## Quickstart
 1. Create and activate a Python environment.
-2. Install dependencies (if any) listed in `requirements.txt`.
-3. Open and run `pre_process.ipynb`.
+2. create a raw data and data folder outside of the repo
+3. Install dependencies (if any) listed in `requirements.txt`.
+4. Open and run `pre_process.ipynb`.
 
